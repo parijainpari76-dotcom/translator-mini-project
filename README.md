@@ -24,7 +24,12 @@ script.js
 2. Open index.html in your browser.
 
 ## 📸 Screenshots
+## 📸 Home Page
 
+<img src="image/home.png" width="900" alt="Home Page">
+
+## 📸 Drak-mode page
+<img src="image/drak-mode.png" width="900" alt="Home Page">
 
 ## 👩‍💻 Author
 Pari Jain
