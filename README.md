@@ -28,8 +28,8 @@ script.js
 
 <img src="image/home.png" width="900" alt="Home Page">
 
-## 📸 Drak-mode page
-<img src="image/drak-mode.png" width="900" alt="Home Page">
+## 📸 Dark-mode page
+<img src="image/dark-mode.png" width="900" alt="drak-mode Page">
 
 ## 👩‍💻 Author
 Pari Jain
